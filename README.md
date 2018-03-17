@@ -26,10 +26,10 @@ Complete la tabla:
 |---------|-----------|------------|------------------------------------|-----------------------------|
 | Centellante | Cognitivo | http://www.opticas.info/articulos/ilusiones-opticas.php |               |
 | Hermman | Cognitivo | http://www.opticas.info/articulos/ilusiones-opticas.php | |
-| Disco | Interactividad |  | https://www.openprocessing.org/sketch/175509 | |
-| Motion | Movimiento | http://www.aulamatematica.com/Efectos_opticos/movimiento/mov1.htm | https://www.openprocessing.org/sketch/488693
+| Disco | Interactividad | | | https://www.openprocessing.org/sketch/175509 | Letra B: aumenta el grosor de cada circunferencia; Letra A: disminuye el grosor de cada circunferencia; Letra W: aumenta la velocidad; Letra S: disminuye la velocidad; Letra D: se aumenta la cantidad de circunferencias; Letra E: se disminuye la cantida de circunferencias |
+| Motion | Movimiento | http://www.aulamatematica.com/Efectos_opticos/movimiento/mov1.htm | | https://www.openprocessing.org/sketch/488693
 | Stuart | Movimiento | https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote | | |
-| StroboscopicArtifacts | Interactividad | http://www.michaelbach.de/ot/mot-strob/index.html | | |
+| StroboscopicArtifacts | Interactividad | http://www.michaelbach.de/ot/mot-strob/index.html | Aunmenta la velocidad con el click del mouse | 
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
 

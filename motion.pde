@@ -52,18 +52,18 @@ background(0);
   //tamaño del punto central
   strokeWeight(4);
   //punto central de la pantalla
-  point(300,300);
+  
+  point(height/2,width/2);
   //color de los puntos
   stroke(241, 196, 15);
   //tamño de los puntos del triangulo
   strokeWeight(8);
   //primer punto 
-  point(225,260);
+  point(width/2-40,height/2-75);
   //segundo punto del correspondiente triangulo
-  point(375,260);
+  point(width/2-40,height/2+75);
   //tercer punto del correspondiente triangulo
-  point(300,380);
-  
+  point(width/2+80,height/2);
   noFill();
   stroke(255);
   //ellipse(width/2, height/2, circleSize, circleSize);

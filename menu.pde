@@ -36,7 +36,8 @@ void draw(){
     
     case 5:
       clear();
-      StuartIllusion();
+      //StuartIllusion();
+      Stuart();
       break;
       
     case 6:

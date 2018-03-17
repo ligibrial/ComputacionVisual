@@ -25,15 +25,10 @@ Complete la tabla:
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
 | Centellante | Cognitivo | http://www.opticas.info/articulos/ilusiones-opticas.php |               |
-
 | Hermman | Cognitivo | http://www.opticas.info/articulos/ilusiones-opticas.php | |
-
 | Disco | Interactividad |  | https://www.openprocessing.org/sketch/175509 | |
-
 | Motion | Movimiento | http://www.aulamatematica.com/Efectos_opticos/movimiento/mov1.htm | https://www.openprocessing.org/sketch/488693
-
 | Stuart | Movimiento | https://magnet.xataka.com/ciencia/13-ilusiones-visuales-que-haran-que-tu-cabeza-explote | | |
-
 | StroboscopicArtifacts | Interactividad | http://www.michaelbach.de/ot/mot-strob/index.html | | |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
